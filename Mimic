@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://githubusercontent.com"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/DoubleRigs/9dce8e1ed2cc248da269a09f0e3ab3b8/raw/df9fd13496c5eecd80473f0e54299b35c028fa53/gistfile1.txt"))()
